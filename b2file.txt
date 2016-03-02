@@ -1,0 +1,8 @@
+hi
+this
+is
+a
+file
+in
+branch
+b2
