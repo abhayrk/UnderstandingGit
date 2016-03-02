@@ -1,0 +1,1 @@
+this is a file from b2 branch which was checked out from b1
