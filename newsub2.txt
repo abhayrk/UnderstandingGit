@@ -1,0 +1,1 @@
+hi.. this is a file from sub2 branch when sub1 and master are identical
