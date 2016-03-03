@@ -1,7 +1,8 @@
+hi
 this
-was
+is
 a
 file
 in
 branch
-b1
+b2
